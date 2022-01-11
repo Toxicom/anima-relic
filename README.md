@@ -136,6 +136,8 @@ Commands for Item Search:
 | ![wind](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/6/64/Luminous_wind_crystal_icon1.png/20px-Luminous_wind_crystal_icon1.png)[Luminous Wind Crystal](https://ffxiv.consolegameswiki.com/wiki/Luminous_Wind_Crystal) | [Sea of Clouds](https://ffxiv.consolegameswiki.com/wiki/The_Sea_of_Clouds) |
 | ![fire](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/05/Luminous_fire_crystal_icon1.png/20px-Luminous_fire_crystal_icon1.png)[Luminous Fire Crystal](https://ffxiv.consolegameswiki.com/wiki/Luminous_Fire_Crystal) | [Azys Lla](https://ffxiv.consolegameswiki.com/wiki/Azys_Lla) |
 | ![lightning](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/70/Luminous_lightning_crystal_icon1.png/20px-Luminous_lightning_crystal_icon1.png)[Luminous Lightning Crystal](https://ffxiv.consolegameswiki.com/wiki/Luminous_Lightning_Crystal) | [Churning Mists](https://ffxiv.consolegameswiki.com/wiki/The_Churning_Mists) |
+
+| Crystal | Zone |
 | ------- | ---- |
 | ![ice](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/8/8d/Luminous_ice_crystal_icon1.png/20px-Luminous_ice_crystal_icon1.png)[Luminous Ice Crystal](https://ffxiv.consolegameswiki.com/wiki/Luminous_Ice_Crystal) | [Coerthas Western Highlands](https://ffxiv.consolegameswiki.com/wiki/Coerthas_Western_Highlands) |
 | ![earth](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/a/a9/Luminous_earth_crystal_icon1.png/20px-Luminous_earth_crystal_icon1.png)[Luminous Earth Crystal](https://ffxiv.consolegameswiki.com/wiki/Luminous_Earth_Crystal) | [Dravanian Forelands](https://ffxiv.consolegameswiki.com/wiki/The_Dravanian_Forelands) |
