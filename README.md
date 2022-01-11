@@ -6,13 +6,20 @@ Feel free to make pull requests to make adjustments :)
 [Link to full guide here](https://ffxiv.consolegameswiki.com/wiki/Anima_Weapons)
 
 # Table of Contents
-1. [Anima Weapon](#anima-weapon-ilvl-210)
-2. [Hyperconductive Anima Weapon](#hyperconductive-anima-weapon-ilvl-230)
-3. [Reconditioned Anima Weapon](#reconditioned-anima-weapon-ilvl-240)
-4. [Sharpened Anima Weapon](#sharpened-anima-weapon-ilvl-260)
-5. [Complete Anima Weapon](#complete-anima-weapon-ilvl-270)
-6. [Lux Anima Weapon](#lux-anima-weapon-ilvl-275)
+1. [Shopping List](#shopping-list)
+      1. [Anima Weapon (210)](#anima-weapon-ilvl-210)
+      2. [Hyperconductive Anima Weapon (230)](#hyperconductive-anima-weapon-ilvl-230)
+      3. [Reconditioned Anima Weapon (240)](#reconditioned-anima-weapon-ilvl-240)
+      4. [Sharpened Anima Weapon (260)](#sharpened-anima-weapon-ilvl-260)
+      5. [Complete Anima Weapon (270)](#complete-anima-weapon-ilvl-270)
+      6. [Lux Anima Weapon (275)](#lux-anima-weapon-ilvl-275)
+2. [Other steps](#other-steps)
+      1. [Animated Weapon (170)](#animated-weapon-ilvl-170)
+      2. [Awoken Weapon (200)](#awoken-weapon-ilvl-200)
+      3. [Complete Weapon (270)](#complete-weapon-ilvl-270)
+      4. [Lux Weapon (275)](#lux-weapon-ilvl-275)
 
+# Shopping List
 ## Anima Weapon (iLvl 210)
  
 | Amount | Item | Price | Total |
@@ -121,3 +128,15 @@ Commands for Item Search:
 
 [Back to Top](#table-of-contents)
 
+# Other Steps
+
+## Animated Weapon (iLvl 170)
+| Crystal | Zone |
+| ------- | ---- |
+| ![wind](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/6/64/Luminous_wind_crystal_icon1.png/20px-Luminous_wind_crystal_icon1.png)[Luminous Wind Crystal](https://ffxiv.consolegameswiki.com/wiki/Luminous_Wind_Crystal) | [Sea of Clouds](https://ffxiv.consolegameswiki.com/wiki/The_Sea_of_Clouds) |
+| ![fire](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/05/Luminous_fire_crystal_icon1.png/20px-Luminous_fire_crystal_icon1.png)[Luminous Fire Crystal](https://ffxiv.consolegameswiki.com/wiki/Luminous_Fire_Crystal) | [Azys Lla](https://ffxiv.consolegameswiki.com/wiki/Azys_Lla) |
+| ![lightning](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/70/Luminous_lightning_crystal_icon1.png/20px-Luminous_lightning_crystal_icon1.png)[Luminous Lightning Crystal](https://ffxiv.consolegameswiki.com/wiki/Luminous_Lightning_Crystal) | [Churning Mists](https://ffxiv.consolegameswiki.com/wiki/The_Churning_Mists) |
+| ------- | ---- |
+| ![ice](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/8/8d/Luminous_ice_crystal_icon1.png/20px-Luminous_ice_crystal_icon1.png)[Luminous Ice Crystal](https://ffxiv.consolegameswiki.com/wiki/Luminous_Ice_Crystal) | [Coerthas Western Highlands](https://ffxiv.consolegameswiki.com/wiki/Coerthas_Western_Highlands) |
+| ![earth](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/a/a9/Luminous_earth_crystal_icon1.png/20px-Luminous_earth_crystal_icon1.png)[Luminous Earth Crystal](https://ffxiv.consolegameswiki.com/wiki/Luminous_Earth_Crystal) | [Dravanian Forelands](https://ffxiv.consolegameswiki.com/wiki/The_Dravanian_Forelands) |
+| ![water](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/1/1f/Luminous_water_crystal_icon1.png/20px-Luminous_water_crystal_icon1.png)[Luminous Water Crystal](https://ffxiv.consolegameswiki.com/wiki/Luminous_Water_Crystal) | [Dravanian Hinterlands](https://ffxiv.consolegameswiki.com/wiki/The_Dravanian_Hinterlands) |
