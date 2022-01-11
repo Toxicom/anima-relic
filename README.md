@@ -112,7 +112,7 @@ Commands for Item Search:
 ## Lux Anima Weapon (iLvl 275)
 | Amount | Item | Price | Total |
 | ------ | ---- | ----- | ----- |
-| 50 | [Archaic Enchanted Ink](https://ffxiv.consolegameswiki.com/wiki/Archaic_Enchanted_Ink) | ![Poetics](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/9/92/Allagan_Tomestone_of_Poetics.png/20px-Allagan_Tomestone_of_Poetics.png) [40](https://ffxiv.consolegameswiki.com/wiki/Allagan_Tomestone_of_Poetics) | ![Poetics](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/9/92/Allagan_Tomestone_of_Poetics.png/20px-Allagan_Tomestone_of_Poetics.png) [40 - 2000](https://ffxiv.consolegameswiki.com/wiki/Allagan_Tomestone_of_Poetics) |
+| 1 | [Archaic Enchanted Ink](https://ffxiv.consolegameswiki.com/wiki/Archaic_Enchanted_Ink) | ![Poetics](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/9/92/Allagan_Tomestone_of_Poetics.png/20px-Allagan_Tomestone_of_Poetics.png) [500](https://ffxiv.consolegameswiki.com/wiki/Allagan_Tomestone_of_Poetics) | ![Poetics](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/9/92/Allagan_Tomestone_of_Poetics.png/20px-Allagan_Tomestone_of_Poetics.png) [500](https://ffxiv.consolegameswiki.com/wiki/Allagan_Tomestone_of_Poetics) |
 
 Commands for Item Search:
 ```
