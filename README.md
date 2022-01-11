@@ -1,3 +1,4 @@
+[![ToxiUI Discord](https://img.shields.io/discord/769550106948141086.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.com/invite/MP4UuJ7gg4)
 # FFXIV Heavensward Anima Relic Shopping List
 Made this list for easy to access and navigate while preparing for the Heavensward relic.
 
