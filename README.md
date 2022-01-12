@@ -6,6 +6,10 @@ Feel free to make pull requests to make adjustments :)
 
 [Link to full guide here](https://ffxiv.consolegameswiki.com/wiki/Anima_Weapons)
 
+Items for ![Poetics](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/9/92/Allagan_Tomestone_of_Poetics.png/20px-Allagan_Tomestone_of_Poetics.png) [Poetics](https://ffxiv.consolegameswiki.com/wiki/Allagan_Tomestone_of_Poetics) can be bought at any Poetics Vendor.
+
+Items for ![Grand Company](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/9/99/Company_Seal.png/20px-Company_Seal.png) [Grand Company Seals](https://ffxiv.consolegameswiki.com/wiki/Company_Seal) can be bought at any [Grand Company Quartermaster](https://ffxiv.consolegameswiki.com/wiki/Grand_Company_Quartermasters)
+
 # Table of Contents
 1. [Shopping List](#shopping-list)
       1. [Anima Weapon (210)](#anima-weapon-ilvl-210)
