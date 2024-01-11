@@ -104,8 +104,8 @@ Commands for Item Search:
 [Back to Top](#table-of-contents)
 
 ## Reconditioned Anima Weapon (iLvl 240)
-### Note: If pre-buying all the steps, I recommend buying for this last, since there is no precise number for how much you need, therefore buy it when you're doing this step!
-#### There is a lot of ways to acquire [Crystal Sand](https://ffxiv.consolegameswiki.com/wiki/Crystal_Sand), so check it's wiki page to find out more :)
+**Note: If pre-buying all the steps, I recommend buying for this last, since there is no precise number for how much you need, therefore buy it when you're doing this step!**
+**There is a lot of ways to acquire [Crystal Sand](https://ffxiv.consolegameswiki.com/wiki/Crystal_Sand), so check it's wiki page to find out more :)**
 | Amount | Item | Price | Total |
 | ------ | ---- | ----- | ----- |
 | 60 - 75 | ![crystalsand](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/e/ef/Crystal_sand_icon1.png/20px-Crystal_sand_icon1.png)[Crystal Sand](https://ffxiv.consolegameswiki.com/wiki/Crystal_Sand) | N/a | N/a |
@@ -122,7 +122,7 @@ Commands for Item Search:
 [Back to Top](#table-of-contents)
 
 ## Sharpened Anima Weapon (iLvl 260)
-### Note: If you've unlocked this step atleast once, you can do the [daily](https://ffxiv.consolegameswiki.com/wiki/Cut_from_a_Different_Cloth)/[weekly](https://ffxiv.consolegameswiki.com/wiki/Seeking_Inspiration) quests without actually being on this step, so do them atleast every week!
+**Note: If you've unlocked this step atleast once, you can do the [daily](https://ffxiv.consolegameswiki.com/wiki/Cut_from_a_Different_Cloth)/[weekly](https://ffxiv.consolegameswiki.com/wiki/Seeking_Inspiration) quests without actually being on this step, so do them atleast every week!**
 | Amount | Item | Price | Total |
 | ------ | ---- | ----- | ----- |
 | 50 | ![singingcluster](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/1/19/Singing_cluster_icon1.png/20px-Singing_cluster_icon1.png)[Singing Cluster](https://ffxiv.consolegameswiki.com/wiki/Singing_Cluster) | ![Poetics](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/9/92/Allagan_Tomestone_of_Poetics.png/20px-Allagan_Tomestone_of_Poetics.png) [40](https://ffxiv.consolegameswiki.com/wiki/Allagan_Tomestone_of_Poetics) | ![Poetics](https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/9/92/Allagan_Tomestone_of_Poetics.png/20px-Allagan_Tomestone_of_Poetics.png) [40 - 2000](https://ffxiv.consolegameswiki.com/wiki/Allagan_Tomestone_of_Poetics) |
